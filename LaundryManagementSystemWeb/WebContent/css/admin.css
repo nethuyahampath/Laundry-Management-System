@@ -1,0 +1,22 @@
+body{
+	background-color : #f5f5dc;
+	font-family : Helvetica;
+}
+
+div.main{
+	background-color : blue;
+	position : absolute;
+	width : 100%;
+	top : 0;
+	left: 0;
+	right : 0;
+}
+
+table.sub{
+	position : absolute;
+	top : 150px;
+	text-align : center;
+	width : 100%;
+	left :  0;
+	right  : 0;
+}

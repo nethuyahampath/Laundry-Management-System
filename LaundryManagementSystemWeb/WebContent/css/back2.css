@@ -1,0 +1,31 @@
+.title{
+	color : white;
+}
+
+.caption{
+	color : white;
+	text-indent: 100px;
+	font-size : 30px;
+}
+
+.textBox{
+	background-color : white;
+	color :  white;
+}
+
+.submitButton{
+	background-color : red;
+}
+
+.error{
+	color :  red;
+	font-weight: bold;
+	text-align: center;
+	font-size : 25px;
+}
+
+.headTable{
+	position: absolute;
+	background-color : white;
+}
+
